@@ -47,7 +47,7 @@ Mantis offers everything needed to build an advanced dashboard application. In t
 
 #### Preview
 
-- [Demo](https://mantisdashboard.io/free)
+- [Demo](https://mantisdashboard.io/)
 
 #### Download
 
